@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.44" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Add a new board in Trello" name="Successfully create a new board - #1.1" time="18.118">
+<system-out><![CDATA[
+Given browser is open.......................................................passed
+And user is log in using f223635@cfd.nu.edu.pk and password==true...........passed
+When user clicks create button..............................................passed
+And user enters Board Title sample board....................................passed
+And user clicks create......................................................passed
+Then User should see the new board..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
